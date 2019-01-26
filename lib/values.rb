@@ -15,5 +15,6 @@ def get_the_values(groceries)
       food_list_values << food
     end
     return food_list_values
+    binding.pry
   end    
 end
