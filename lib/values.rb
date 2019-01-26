@@ -13,6 +13,5 @@ def get_the_values(groceries)
   groceries.each do |keys, values|
     list << values
     end
-    return list
-  end    
+  return list
 end
